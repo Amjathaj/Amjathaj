@@ -36,7 +36,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you’d
 
 ## 📫 Get in Touch
 
-- ✉️ [Email Me](mailto:amjathaj2002@gmail.com)
+- ✉️ [Email Me](mailto:your-amjathaj2002@gmail.com)
 
 Thanks for visiting my profile! Happy coding! 🎉
 
