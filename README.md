@@ -51,11 +51,12 @@ I thrive on creating user-friendly interfaces and building robust backend system
 Feel free to explore my repositories, and don't hesitate to reach out if you’d like to connect! 🌍
 
 ## 📫 Get in Touch
-
+<!--
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/amjathaj)  
 - ✉️ [Email Me](mailto:amjathaj2002@gmail.com)
 -  📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](mailto:amjathaj2002@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amjathaj)
+-->
+[<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](mailto:amjathaj2002@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amjathaj)
 
 
 Thanks for visiting my profile! Happy coding! 🎉
